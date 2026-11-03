@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport,NOX,NOXGame,NOX Game Hub" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport,NOX,NOXGame,NOX Game Hub,NOXHUB" content="width=device-width, initial-scale=1.0">
     <title>Nox Gaming Hub - Restriction Gamers</title>
     <style>
         * {
