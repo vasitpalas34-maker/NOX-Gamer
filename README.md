@@ -424,7 +424,7 @@
                 <li><a href="platform.html" class="active">Home</a></li>
                 <li><a href="open world game3.html">Tournaments</a></li>
                 <li><a href="NOc game.html">Streams</a></li>
-                <li><a href="#">Community</a></li>
+                <li><a href="NOc game.html">Community</a></li>
             </ul>
         </nav>
 
